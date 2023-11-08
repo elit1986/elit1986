@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+![Header](./https://gitlab.com/elit1986)
 <h3 align="center">A passionate Full Stack developer from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on **Wise AI**
