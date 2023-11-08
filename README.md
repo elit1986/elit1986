@@ -1,4 +1,4 @@
-![Header](./https://gitlab.com/elit1986)
+![Header](./github-header-image.png)
 <h3 align="center">A passionate Full Stack developer from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on **Wise AI**
